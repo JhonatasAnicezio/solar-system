@@ -1,0 +1,11 @@
+.title_Header {
+  display: flex;
+  flex-direction: grid;
+  align-items: center;
+  justify-content: center;
+  top: 0px;
+  font-size: 100px;
+  font-family: 'Epilogue';
+  font-style: normal;
+  color: #FFFFFF;
+}
