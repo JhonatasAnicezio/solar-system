@@ -5,7 +5,7 @@ class Header extends Component {
   render() {
     return (
       <header
-        className="title_Header"
+        className="container-Header"
       >
         <h1>Sistema Solar</h1>
       </header>
