@@ -4,14 +4,14 @@ import './App.css';
 import SolarSystem from './components/SolarSystem';
 
 class App extends React.Component {
-  render() {
-    return (
-      <>
-        <Header />
-        <SolarSystem />
-      </>
-    );
-  }
-};
+	render() {
+		return (
+			<>
+				<Header />
+				<SolarSystem />
+			</>
+		);
+	}
+}
 
 export default App;
