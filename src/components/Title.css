@@ -1,0 +1,9 @@
+.title {
+  color: #FFFFFF;
+  font-family: 'Epilogue';
+  background-color: rgb(0,0,0,0.5);
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px #FFFFFF;
+  margin: 50px;
+}
