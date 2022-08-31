@@ -4,6 +4,34 @@
   font-style: normal;
 }
 
-.container-Card img {
-  height: 75px;
+.planet-Mercúrio img {
+  height: 15px;
+}
+
+.planet-Vênus img {
+  height: 45px;
+}
+
+.planet-Terra img {
+  height: 55px;
+}
+
+.planet-Marte img {
+  height: 28px;
+}
+
+.planet-Júpiter img {
+  height: 155px;
+}
+
+.planet-Saturno img {
+  height: 145px;
+}
+
+.planet-Urano img {
+  height: 67px;
+}
+
+.planet-Netuno img {
+  height: 65px;
 }
